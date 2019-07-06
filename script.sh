@@ -1,8 +1,9 @@
 ###########################################
 #This script is to be run in root account #
 #any options unless specified or needed   #
-#Version: 1.0			                        #
-#Release: 26-June-2019		                #
+#Version: 1.0			          #
+#Release: 26-June-2019		          #
+#Author: S N Banerjee                     #
 #How to run: sh +x script file name       #
 ###########################################
 #!/bin/bash
