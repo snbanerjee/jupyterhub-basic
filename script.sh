@@ -1,6 +1,7 @@
 ###########################################
 #This script is to be run in root account #
 #any options unless specified or needed   #
+#This script is tested on Ubuntu16.04     #
 #Version: 1.0			          #
 #Release: 26-June-2019		          #
 #Author: S N Banerjee                     #
